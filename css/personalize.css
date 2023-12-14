@@ -1,0 +1,27 @@
+.rights a{
+    text-decoration: none;
+    color: #ffa737;
+}
+.rights a:hover{
+    color: #f2793a;
+}
+.index-login-signup{
+    display: flex;
+    flex-direction: column;
+    gap: 3vw;
+    align-items: center;
+}
+
+.red-orange{
+    background-color: #b71a46;
+}
+.mid-orange{
+    background-color: #f2793a;
+}
+.light-orange{
+    background-color: #ffa737;
+}
+
+button:hover{
+    filter: contrast(125%)
+}

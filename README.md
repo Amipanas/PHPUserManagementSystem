@@ -21,5 +21,6 @@
 ### For Run :
 ```
 php -S localhost:8000
+
+then Open http://localhost:8000 in your browser.
 ```
-#### Open http://localhost:8000 in your browser.
